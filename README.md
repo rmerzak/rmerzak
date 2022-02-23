@@ -12,3 +12,7 @@
 		<img src="https://badge42.herokuapp.com/api/stats/rmerzak?darkmode=true&cursus=42cursus" />
 	</a>
 </p>
+
+
+| [![YOPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmerzak&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/rmerzak?tab=repositories) | [![YOPI's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmerzak&layout=compact&hide_border=true&theme=dracula)](https://github.com/rmerzak?tab=repositories) |
+|:-:|:-:|
