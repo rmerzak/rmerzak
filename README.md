@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with my c codes
 - 💬 Ask me about everything
 - 📫 How to reach me: rmerzak@student.1337.ma
-- 😄 Pronouns: he
 
 
 <p align="center" >
