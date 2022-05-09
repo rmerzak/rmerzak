@@ -8,7 +8,7 @@
 
 <p align="center" >
     <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/levi/rmerzak" alt="rmerzak's 42 stats" height=250px width=500px/>
+        <img src="https://badge.mediaplus.ma/colorfulwaves/rmerzak" alt="rmerzak's 42 stats" height=250px width=500px/>
     </a>
 </p>
 
