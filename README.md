@@ -34,12 +34,13 @@ Web3 Learner
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rmerzak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rabi-merzak-a28068185/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/rmerzak" alt="rmerzak's 42 stats" /></a>
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rmerzak"><img src="https://activity-graph.herokuapp.com/graph?username=rmerzak&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/rmerzak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmerzak&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/rmerzak" alt="rmerzak's 42 stats" /></a>
