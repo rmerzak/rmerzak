@@ -6,7 +6,7 @@ Web3 Learner
 
 * 🌍  I'm based in Khouribga, Morocoo
 * ✉️  You can contact me at [rmerzak@student.1337.ma](mailto:rmerzak@student.1337.ma)
-* 🧠  I'm learning solidity, react.js, node.js...
+* 🧠  I'm learning solidity, react.js, node.js , express.js ...
 
 ### Skills
 
