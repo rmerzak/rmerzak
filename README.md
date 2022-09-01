@@ -8,6 +8,8 @@ Web3 Learner
 * ✉️  You can contact me at [rmerzak@student.1337.ma](mailto:rmerzak@student.1337.ma)
 * 🧠  I'm learning solidity,circom, snarkjs, hardhat, etherjs, web3js ,react.js, node.js , express.js ...
 
+![](https://komarev.com/ghpvc/?username=rmerzak)
+
 ### Skills
 
 <p align="left">
