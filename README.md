@@ -1,12 +1,12 @@
 Hi 👋 My name is Rabi Merzak
 ============================
 
-Web3 Learner
+Software engineer
 ------------
 
 * 🌍  I'm based in Khouribga, Morocoo
 * ✉️  You can contact me at [rmerzak@student.1337.ma](mailto:rmerzak@student.1337.ma)
-* 🧠  I'm learning solidity,circom, snarkjs, hardhat, etherjs, web3js ,react.js, node.js , express.js ...
+* 🧠  I'm learning Java, C++, C,SpringBoot ,solidity, circom, snarkjs, hardhat, etherjs, web3js ,react.js, node.js , express.js ...
 
 ![](https://komarev.com/ghpvc/?username=rmerzak&color=red&style=flat)
 
